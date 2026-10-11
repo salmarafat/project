@@ -1,3 +1,10 @@
-h1{
+/* Styles linked to index */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
     color: red;
+    text-align: center;
 }
